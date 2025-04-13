@@ -38,3 +38,11 @@ Budgetify is a smart budgeting assistant designed to remove the hassle of person
 Currently under development. This README is part of the public documentation.
 The actual core app and algorithm live in a private submodule and are not yet public.
 >While the documentation for what is used in the algorithm will be public, as the techniques used in it are public knowledge, the implementation itself will be kept private.
+
+### 📬 Let’s Connect:
+- Twitter / X: [@Iladev_](https://x.com/Iladev_)
+- Website: *(soon™️)*
+- Email: iladevv0@gmail.com
+  
+#### 📖 Want to learn more - or keep up with my projects?
+- ▶️ Youtube devlogs & diaries: [@IladevV](https://www.youtube.com/@IladevV)
